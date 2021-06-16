@@ -9,7 +9,6 @@ import (
 	"time"
 
 	"example.com/build/tags/registry"
-	_ "example.com/build/tags/sub"
 )
 
 func main() {
